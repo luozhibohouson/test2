@@ -57,7 +57,10 @@ int bb =4;
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-  
+  void  xyz(int xy)
+  {
+    
+  }
 
 /* USER CODE END 0 */
 
