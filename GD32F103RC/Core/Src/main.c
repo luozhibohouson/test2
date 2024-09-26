@@ -56,10 +56,7 @@ void MX_FREERTOS_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-  void  xyz(int xy)
-  {
-    
-  }
+ 
 
 /* USER CODE END 0 */
 
